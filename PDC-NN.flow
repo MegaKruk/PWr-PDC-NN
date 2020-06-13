@@ -1,0 +1,21 @@
+{
+  "version": "1.0.0",
+  "cells": [
+    {
+      "type": "cs",
+      "input": "assist"
+    },
+    {
+      "type": "cs",
+      "input": "getJobs"
+    },
+    {
+      "type": "cs",
+      "input": "getJob \"$0301c0a8006832d4ffffffff$_9c971146b59bff4bd3daf3a7e846481c\""
+    },
+    {
+      "type": "cs",
+      "input": "getModel \"votes_neurons=Tanh_folds_in_cross_validation=0\""
+    }
+  ]
+}
